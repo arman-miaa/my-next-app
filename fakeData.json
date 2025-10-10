@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "product_name": "MacBook Pro 13-inch",
+      "category": "Laptop",
+      "brand": "Apple",
+      "price": 1299,
+      "image": "https://miro.medium.com/0*z1pMolaOszevZPrc.jpg"
+    },
+    {
+      "id": 2,
+      "product_name": "MacBook Pro Refurbished",
+      "category": "Laptop",
+      "brand": "Apple",
+      "price": 899,
+      "image": "https://i5.walmartimages.com/seo/Restored-Apple-Mackbook-Pro-Laptop-13-3-Intel-Core-i5-3210M-4GB-RAM-500GB-SSD-Mac-OS-Silver-MD101LL-A-Refurbished_f9f0ddc9-0700-4974-b219-ec24faa8d957_1.4d84187e6eae564e81126cc7b2495a75.jpeg"
+    },
+    {
+      "id": 3,
+      "product_name": "MacBook Air M2",
+      "category": "Laptop",
+      "brand": "Apple",
+      "price": 119,
+      "image": "https://www.tradeinn.com/f/14037/140374820_7/apple-macbook-air-15-m2-8-cpu-10-gpu-16gb-256gb-ssd.webp"
+    },
+    {
+      "id": 4,
+      "product_name": "MacBook Pro 2017 Used",
+      "category": "Laptop",
+      "brand": "Apple",
+      "price": 749,
+      "image": "https://gateway.co.ug/wp-content/uploads/2020/03/mackbook-air.jpg"
+    },
+    {
+      "id": 5,
+      "product_name": "MacBook Air 2020",
+      "category": "Laptop",
+      "brand": "Apple",
+      "price": 999,
+      "image": "https://gateway.co.ug/wp-content/uploads/2020/03/mackbook-air.jpg"
+    },
+    {
+      "id": 6,
+      "product_name": "MacBook Pro Desktop Wallpaper",
+      "category": "Laptop",
+      "brand": "Apple",
+      "price": 1399,
+      "image": "https://e0.pxfuel.com/wallpapers/13/699/desktop-wallpaper-for-macbook-pro-mac-book-pro-teahub-io-thumbnail.jpg"
+    }
+  ]
+}
